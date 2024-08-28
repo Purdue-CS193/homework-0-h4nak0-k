@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I use Markdown in Obsidian 🪨
 
 ```markdown
 Syntax highlighted code block
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Hello WOrld` text
 
 [Link](url) and ![Image](src)
 ```
