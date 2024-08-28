@@ -11,9 +11,9 @@ I use Markdown in Obsidian 🪨
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# This is IMPORTANT
+## Sub-section of this is IMPORTANT
+### Details
 
 - Bulleted
 - List
